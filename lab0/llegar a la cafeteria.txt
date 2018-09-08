@@ -1,0 +1,10 @@
+Algoritmo para llegar a la cafetería
+
+1° Abrir la puerta.
+2° Salir por la puerta.
+3° Das dos pasos hacia afuera.
+4° Girar a la derecha.
+5° Caminar de frente hasta encontrar dos caminos.
+6° Tomar el camino de la izquierda y seguir hacia adelante.
+7° Caminar de frente hasta encontrar gradas a tu izquierda.
+8° Subir las gradas.
